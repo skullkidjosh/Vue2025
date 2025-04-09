@@ -25,7 +25,7 @@ const Eliminar = () => {
 
 <style scoped>
 p {
-  color: rgb(240, 19, 19);
+  color: rgb(146, 26, 26);
   text-align: center;
 }
 
